@@ -6,4 +6,4 @@
 <b>Оцінка: 5</b><br>
 
 <p align="center">Скріншот сайту</p>
-<img src="https://github.com/karkuh/WEB_lab1/blob/main/screen/photo_website.png">
+
